@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\Atividade_arvore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\Atividade_arvore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\Atividade_arvore.AssemblyInfo.cs
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\Atividade_arvore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Atividade_arvore\bin\Debug\net8.0\Atividade_arvore.exe
+C:\Users\user\Desktop\Atividade_arvore\bin\Debug\net8.0\Atividade_arvore.deps.json
+C:\Users\user\Desktop\Atividade_arvore\bin\Debug\net8.0\Atividade_arvore.runtimeconfig.json
+C:\Users\user\Desktop\Atividade_arvore\bin\Debug\net8.0\Atividade_arvore.dll
+C:\Users\user\Desktop\Atividade_arvore\bin\Debug\net8.0\Atividade_arvore.pdb
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\Atividade_arvore.dll
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\refint\Atividade_arvore.dll
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\Atividade_arvore.pdb
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\Atividade_arvore.genruntimeconfig.cache
+C:\Users\user\Desktop\Atividade_arvore\obj\Debug\net8.0\ref\Atividade_arvore.dll
